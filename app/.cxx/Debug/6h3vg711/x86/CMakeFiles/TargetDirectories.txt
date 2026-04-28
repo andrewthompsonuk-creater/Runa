@@ -1,3 +1,0 @@
-C:/Users/andre/Documents/New project/app/.cxx/Debug/6h3vg711/x86/CMakeFiles/dogrundetector.dir
-C:/Users/andre/Documents/New project/app/.cxx/Debug/6h3vg711/x86/CMakeFiles/edit_cache.dir
-C:/Users/andre/Documents/New project/app/.cxx/Debug/6h3vg711/x86/CMakeFiles/rebuild_cache.dir

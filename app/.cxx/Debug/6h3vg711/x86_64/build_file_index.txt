@@ -1,1 +1,0 @@
-C:\Users\andre\Documents\New project\app\src\main\cpp\CMakeLists.txt

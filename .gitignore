@@ -1,6 +1,7 @@
 .android-sdk/
 .gradle/
 .tools/
+app/.cxx/
 app/build/
 build/
 local.properties
