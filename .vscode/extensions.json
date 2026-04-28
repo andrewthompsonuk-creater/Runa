@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-gradle",
+    "ms-vscode.cpptools",
+    "ms-vscode.cmake-tools"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "java.jdt.ls.java.home": "C:\\Users\\andre\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-17",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Users\\andre\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-17",
+      "default": true
+    }
+  ],
+  "cmake.configureOnOpen": false,
+  "files.exclude": {
+    "**/.gradle": true,
+    "**/build": true,
+    "**/app/build": true
+  }
+}
